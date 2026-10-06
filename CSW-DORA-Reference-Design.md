@@ -89,7 +89,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -566,18 +566,18 @@ When asked under Article 50 (information requests) for evidence:
 DORA shares substantial control surface with:
 
 - **NIS2** — many of the Article 21(2) measures overlap with DORA
-  Pillars 1–2 (see [NIS2 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIS2/CSW-NIS2-Technical-Runbook.md)).
+  Pillars 1–2 (see [NIS2 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIS2/CSW-NIS2-Technical-Runbook.md)).
 - **ISO/IEC 27001:2022** — Annex A controls map cleanly to DORA
-  Pillar 1 (see [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)).
+  Pillar 1 (see [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md)).
 - **NIST SP 800-207** — DORA's segmentation and continuous-monitoring
   expectations align with the seven ZTA tenets (see
-  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md)).
+  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md)).
 - **PCI DSS v4.0** — for payment-services entities, DORA Pillar 1 and
   PCI Reqs 1, 7, 10, 11 share evidence (see
-  [PCI runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md)).
+  [PCI runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md)).
 
 
-- **UK NCSC CAF v3.2** — Art. 28 and Art. 19 are the reuse path for CAF A4 and D1 (see [CAF crosswalk](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/UK-NCSC-CAF/caf-mapping.md)).
+- **UK NCSC CAF v3.2** — Art. 28 and Art. 19 are the reuse path for CAF A4 and D1 (see [CAF crosswalk](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/UK-NCSC-CAF/caf-mapping.md)).
 
 ---
 
@@ -603,4 +603,4 @@ and ITS and against any guidance issued by your lead overseer.
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
